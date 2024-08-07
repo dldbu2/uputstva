@@ -1,2 +1,2 @@
-# uputstvo-plate
-Uputstvo za program Plate
+# uputstva
+Uputstvo za programe Studio DLD
