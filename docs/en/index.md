@@ -1,6 +1,6 @@
-# DldPro
+# Studio DLD - Dokumentacija
 
-# Plate
+## Program za Plate
 
-# Fakturisanje
+## Program za Fakturisanje
 
