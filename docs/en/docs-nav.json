@@ -1,0 +1,35 @@
+{
+    "items": [
+      {
+      "text": "Početak rada",
+      "path": "pocetak",
+      "items": [
+        {
+          "text": "Knjigovodtveni servis",
+          "path": "pocetak/knjigovodstveni-servis.md"
+        },
+        {
+          "text": "Firme",
+          "path": "pocetak/firma.md"
+        },
+        {
+          "text": "Programi",
+          "items": [
+            {
+              "text": "Program za Knjigovodstvo",
+              "path": "pocetak/knjigovodstvo.md"
+            },
+            {
+              "text": "Obračin Plata",
+              "path": "pocetak/plate.md"
+            },
+            {
+              "text": "Fakturisanje",
+              "path": "get-pocetak/fakturisanje.md"
+            }
+          ]
+        }
+      ]
+    }
+    ]
+}
